@@ -10,10 +10,11 @@ import applicationRoute from "./routes/application.route.js";
 import path from "path";
 dotenv.config({});
 
-const _dirname  = path.resolve();
+
 
 const app = express();
 
+const _dirname  = path.resolve();
 // middleware
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
