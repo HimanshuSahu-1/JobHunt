@@ -133,7 +133,7 @@ const filterData = [
   },
   {
     filterType: "Industry",
-    array: ["Frontend Devloper","CyberSecurity Devloper","Web3 Devloper","Devops Enginner", "Backend Devloper", "Full Stack Devloper"],
+    array: ["Frontend Devloper", "Cloud Computing","CyberSecurity Devloper","Web3 Devloper","Devops Enginner", "Backend Devloper", "Full Stack Devloper"],
   },
 //   {
 //     filterType: "Salary",
