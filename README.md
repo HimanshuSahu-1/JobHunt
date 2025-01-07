@@ -12,7 +12,7 @@ The Job Hunt project is an advanced job portal that allows users to browse avail
 - Job listings can be searched and filtered based on:
   - Location
   - Role
-  
+  - Other user preferences
 
 ### User Profile Management
 - Users can create and update their personal profiles, including adding resumes, contact details, and other personal information.
@@ -46,6 +46,10 @@ The Job Hunt project is an advanced job portal that allows users to browse avail
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (or PostgreSQL depending on implementation)
 - **Authentication**: JWT (JSON Web Tokens) for secure login
+
+## Demo
+You can check out the live demo of the project here:  
+[Job Hunt Demo](https://jobhunt-cmsn.onrender.com)
 
 ## Installation
 Follow these steps to get the project running locally:
